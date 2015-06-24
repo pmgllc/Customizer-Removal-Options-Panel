@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Customizer Removal Options Panel
-Plugin URI: https://github.com/pmgllc/customizer-removal-options-panel
+Plugin URI: https://github.com/parallelus/customizer-remove-all-parts
 Description: Completely removes the WordPress Customizer from loading in your install.
 Version: 1.0.0
 Author: Jesse Petersen, Andy Wilkerson
